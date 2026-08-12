@@ -781,4 +781,4 @@ SOFTWARE.
 
 ---
 
-*Built with care for the 7.5 million people with disabilities in Germany who deserve the same frictionless online shopping experience as everyone else.*
+*Built with care for the 7.5 million people with disabilities in Germany who deserve the same frictionless online shopping experience as everyone else.* test
